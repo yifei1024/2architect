@@ -8,7 +8,7 @@ import static com.architect.java.bio.Constant.Server.HOST;
 import static com.architect.java.bio.Constant.Server.PORT;
 
 /**
- * @author CNan
+ * @author yifei1024
  */
 public class ClientHandler implements Runnable {
     private int no;

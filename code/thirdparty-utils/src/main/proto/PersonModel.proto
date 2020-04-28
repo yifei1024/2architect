@@ -1,0 +1,9 @@
+syntax = "proto3";
+option java_package = "com.architect.thirdparty.utils.proto";
+option java_outer_classname = "UserModel";
+
+message User {
+    int32 id = 1;
+    string name = 2;
+    int32 sex = 3;
+}

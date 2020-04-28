@@ -1,7 +1,7 @@
 package com.architect.java.bio;
 
 /**
- * @author CNan
+ * @author yifei1024
  */
 public interface Constant {
 
