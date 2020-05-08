@@ -1,15 +1,28 @@
-# A way to be a architect
+# 架构师学习之路
+
+## 数据结构与算法
+
+## 设计模式
+
+### 创建型
+### 结构型
+### 行为型
 
 ## Java
-- base
-  - list
-  - map
-  - class
-- network
-  - bio
-  - nio
-## DataBase
-
+### 基本数据结构
+- List
+- Map
+### 网络编程
+- BIO
+- NIO
+- AIO
+### 并发编程
+- CountDownLatch
+- CycleBarrier
+- ThreadPoolExecutor
+- Executors
+  
+## 数据库
 - Mysql
 
 ## NoSql
@@ -17,10 +30,14 @@
 - redis
 - mongodb
 
-## Cache
-- enhance
+## 缓存
+- Enhance
+- Memcached
+- Redis
 
-## Search
+## 搜索
+
+### 倒排索引
 
 - Elasticsearch
 - Lucence
